@@ -1,0 +1,4 @@
+//Check if a string is a substring of another using STL:
+//check if s1 is a substring of s1 or not
+//find ->return an iterator
+(s2.find(s1) != string::npos)//npos->no position
